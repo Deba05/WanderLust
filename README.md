@@ -67,7 +67,7 @@ SECRET=session_secret
 node app.js
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:8080/listings](http://localhost:8080/listings) in your browser.
 
 ---
 

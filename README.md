@@ -90,22 +90,20 @@ WanderLust/
 
 ---
 
-## 🖼️ Screenshots
-
-
 ## 📸 Screenshots
 
 ### 🏕️ Homepage
-![Homepage](images/homepage.png)
+![Homepage](public/images/homepage.png)
 
 ### ➕ Add New Listing Page
-![Add New Listing](images/addNewListingPage.png)
+![Add New Listing](public/images/addNewListingPage.png)
 
 ### 📄 Listings Page
-![Listings](images/Listings.png)
+![Listings](public/images/Listings.png)
 
 ### 🔐 Login Page
-![Login Page](images/loginPage.png)
+![Login Page](public/images/loginPage.png)
+
 
 ---
 

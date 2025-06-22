@@ -92,7 +92,20 @@ WanderLust/
 
 ## 🖼️ Screenshots
 
-> Add some `.png` or `.jpg` files in `public/images/` and link them here to show how the site looks.
+
+## 📸 Screenshots
+
+### 🏕️ Homepage
+![Homepage](images/homepage.png)
+
+### ➕ Add New Listing Page
+![Add New Listing](images/addNewListingPage.png)
+
+### 📄 Listings Page
+![Listings](images/Listings.png)
+
+### 🔐 Login Page
+![Login Page](images/loginPage.png)
 
 ---
 
